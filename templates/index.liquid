@@ -1,3 +1,4 @@
+{% assign variable = "Hello" %}
 {% assign array_string = "Wesley, Conner, Joe, Paul, Justin, Nan" %}
 {% assign array = array_string | split "," %}
 
@@ -6,3 +7,5 @@
   <li>{{ name }}</li>
 {%endfor%}
 </ul>
+
+{{ variable }}
