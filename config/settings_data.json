@@ -1,12 +1,6 @@
 {
-  "current": {
-    "customer_layout": "theme",
-    "example_option": "option"
-  },
+  "current": "Default",
   "presets": {
-    "Naked": {
-      "customer_layout": "theme",
-      "example_option": "option"
-    }
+    "Default": { }
   }
 }
